@@ -1,0 +1,6 @@
+This is just a sandbox for learning sass.
+
+Watch/compile when style.scss changes
+
+sass --watch style.scss:style.css
+
