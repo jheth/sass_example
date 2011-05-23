@@ -4,3 +4,4 @@ Watch/compile when style.scss changes
 
 sass --watch style.scss:style.css
 
+See http://sass-lang.com/
